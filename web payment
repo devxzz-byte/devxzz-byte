@@ -1,0 +1,11 @@
+```
+<form>
+  <label>Pilih Metode Pembayaran:</label>
+  <select name="payment_method">
+    <option value="dana">Dana</option>
+    <option value="gopay">Gopay</option>
+    <option value="qris">QRIS</option>
+  </select>
+  <button type="submit">Bayar</button>
+</form>
+```
